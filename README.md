@@ -9,6 +9,9 @@ Grid card rapi, bisa sampai 4 per baris.
 🕹️ Cara Pakai
 
 npm install
+
 npm start
+
 Masukin API key OpenWeatherMap di Weather.js
+
 Tambah kota dan lihat cuacanya
