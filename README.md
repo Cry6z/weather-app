@@ -1,4 +1,4 @@
-☁️ Weather App Multi Card
+☁️ Weather App
 
 Simple React app buat ngecek cuaca beberapa kota sekaligus.
 
@@ -8,10 +8,9 @@ Grid card rapi, bisa sampai 4 per baris.
 
 🕹️ Cara Pakai
 
-npm install
+-npm install
+-npm start
+-Masukin API key OpenWeatherMap di Weather.js
+-Tambah kota dan lihat cuacanya
 
-npm start
-
-Masukin API key OpenWeatherMap di Weather.js
-
-Tambah kota dan lihat cuacanya
+malas buat panjang-panjang 
