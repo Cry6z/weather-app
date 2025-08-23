@@ -1,6 +1,6 @@
 # 🌤️ Weather App Multi Card
 
-Aplikasi cuaca React untuk menampilkan cuaca beberapa kota sekaligus.
+Project gabut aplikasi cuaca React untuk menampilkan cuaca beberapa kota sekaligus.
 
 ## Fitur
 - Tambah kota lewat input
