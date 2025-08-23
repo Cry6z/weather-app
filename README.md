@@ -1,2 +1,21 @@
+# 🌤️ Weather App Multi Card
 
-![Uploading Screenshot 2025-08-03 181409.png…]()
+Aplikasi cuaca React untuk menampilkan cuaca beberapa kota sekaligus.
+
+## Fitur
+- Tambah kota lewat input
+- Grid responsif (max 4 card)
+- Info lengkap: suhu, kelembaban, angin, tekanan, sunrise & sunset
+
+## Instalasi
+```bash
+zip/clone
+cd weather-app
+npm install
+npm start
+Masukkan API Key OpenWeatherMap di Weather.js.
+```
+## Dependencies
+React
+
+React Icons
