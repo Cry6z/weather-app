@@ -10,7 +10,7 @@ Aplikasi cuaca React untuk menampilkan cuaca beberapa kota sekaligus.
 ## Instalasi
 ```bash
 zip/clone
-cd weather-app
+cd WeatherAppReact-master
 npm install
 npm start
 Masukkan API Key OpenWeatherMap di Weather.js.
